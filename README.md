@@ -1,5 +1,5 @@
-<p style="text-align: center;">
-Tromsø brettseilerklubb</p>
+Tromsø brettseilerklubb
+=====
 
 ![Logo](https://github.com/jhehenri/test/raw/master/TBSK%20Logo.jpg)
 
