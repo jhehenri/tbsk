@@ -1,8 +1,8 @@
 <p style="text-align: center;">
-Tromsø brettseilerklubb
+Tromsø brettseilerklubb</p>
 ======
 ![Logo](https://github.com/jhehenri/test/raw/master/TBSK%20Logo.jpg)
-</p>
+
 
 You can use the [editor on GitHub](https://github.com/jhehenri/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
