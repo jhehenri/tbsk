@@ -2,7 +2,7 @@ Tromsø brettseilerklubb
 =====
 ![Logo](https://github.com/jhehenri/test/raw/master/TBSK%20Logo.jpg)
 
-##Vi jobber med å få på plass ny nettside
+## Vi jobber med å få på plass ny nettside
 Foreløpig kan du finne oss på [Facebook](https://www.facebook.com/groups/tromsobsk/)
 
 You can use the [editor on GitHub](https://github.com/jhehenri/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
