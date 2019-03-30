@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TBSK",
+    "description": "",
+    "home_page_url": "http://test.xenlab.no",
+    "feed_url": "http://test.xenlab.no/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jørn"
+    },
+    "items": [
+    ]
+}

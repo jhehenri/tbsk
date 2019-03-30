@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TBSK</title>
+    <link href="http://test.xenlab.no/feed.xml" rel="self" />
+    <link href="http://test.xenlab.no" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Jørn</name>
+    </author>
+    <id>http://test.xenlab.no</id>
+
+</feed>
